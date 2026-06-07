@@ -1,4 +1,4 @@
-# IT1214-Student-Grade-System
+## IT1214-Student-Grade-System
 
 ## Description
 This is a Java console-based application developed to manage student academic records digitally.
