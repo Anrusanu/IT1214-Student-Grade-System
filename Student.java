@@ -25,6 +25,6 @@ public class Student {
         System.out.println("Student ID: " + studentId);
         System.out.println("Student Name: " + studentName);
         System.out.println("Marks: " + marks);
-        System.out.println("---------------------");
+        System.out.println("--------------------");
     }
 }
